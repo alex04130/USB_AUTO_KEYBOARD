@@ -1,0 +1,18 @@
+{
+    "idf.portWin": "COM8",
+    "files.associations": {
+        "hid_device.h": "c",
+        "freertos.h": "c",
+        "array": "c",
+        "charconv": "c",
+        "compare": "c",
+        "functional": "c",
+        "ratio": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "variant": "c"
+    },
+    "idf.flashType": "UART",
+    "idf.adapterTargetName": "esp32s3"
+}
